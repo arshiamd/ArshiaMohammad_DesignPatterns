@@ -1,4 +1,4 @@
-package headfirst.designpatterns.strategy;
+package Behavioral.strategy;
 
 public class FlyNoWay implements FlyBehavior {
 	public void fly() {

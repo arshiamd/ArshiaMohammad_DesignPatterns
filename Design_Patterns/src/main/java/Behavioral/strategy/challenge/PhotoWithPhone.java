@@ -1,4 +1,4 @@
-package headfirst.designpatterns.strategy.challenge;
+package Behavioral.strategy.challenge;
 
 import java.util.Scanner;
 

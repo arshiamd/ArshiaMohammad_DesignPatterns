@@ -1,4 +1,4 @@
-package headfirst.designpatterns.strategy;
+package Behavioral.strategy;
 
 public abstract class Duck {
 	FlyBehavior flyBehavior;
